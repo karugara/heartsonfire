@@ -1,2 +1,2 @@
-# heartsonfire
-base de datos que hize para bla bla bla mi ex presentacion
+# COBERMED
+Sistema de Historias Clinicas hecho por Roy
